@@ -1,0 +1,16 @@
+CameraHack/
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           └── java/
+│               └── com/
+│                   └── camera/
+│                       └── hack/
+│                           ├── MainActivity.java
+│                           ├── services/
+│                           │   └── CameraBotService.java
+│                           └── receivers/
+│                               ├── BootReceiver.java
+│                               └── AdminReceiver.java
